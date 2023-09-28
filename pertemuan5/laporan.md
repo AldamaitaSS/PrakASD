@@ -67,15 +67,52 @@ Buatlah program untuk mencari sebuah nilai x dan tentukan jenis sequential searc
 a. x=41
 
     - order
-
+<img src = "1Or2.png">
+<img src = "1Or1.png">
+<img src = "1outOR.png">
 
     - unorder
+<img src = "1OrB.png">
+<img src = "1OrB2.png">
+<img src = "1OutorA.png">
 
 b. x=50
 
     - order
-
+<img src = "1Or2.png">
+<img src = "1Or1.png">
+<img src = "1outOR2.png">
 
     - unorder
+<img src = "1OrB.png">
+<img src = "1OrB2.png">
+<img src = "1OutorB.png">
+
 
 ### Tugas No 2
+Terdapat sebuah array dua dimensi yang menggambarkan nama mahasiswa pada 3 kelompok yang berbeda dalam satu kelas. Baris menunjukkan kelompok, sedangkan kolom menunjukkan data mahasiswa dalam satu kelompok dengan contoh seperti di bawah ini.
+Urutan 1 2 3 4 5
+Kelompok Indeks     0       1       2       3       4
+    1      0      “Alfi” “Safira” “Tiara” “Arif” “Erdi”
+    2      1      “Yudha” “Nisa” “Yulia” “Fauzan” “Dwi”
+    3      2      “Dewa”   “Ana”  “Abdul”  “Dani” “Ammar”
+Berdasarkan data tersebut, buatlah program untuk melakukan pencarian data kelompok dan urutan mahasiswa, dimana data nama mahasiswa yang dicari diinputkan melalui keyboard!
+<img src = "1No2.png">
+<img src = "2No2.png">
+<img src = "OutNo2.png">
+
+### Tugas No 3
+Terdapat sebuah array satu dimensi sebagai berikut:
+Index   0   1   2   3   4   5    6    7     8   9
+Array  12  15   6   3  70   51  83   15     3   83
+Buatlah program untuk mencari dan mencetak isi array yang nilainya terbesar, serta mencetak di posisi mana saja nilai terbesar tersebut berada!
+<img src = "No3.png">
+<img src = "No3Main.png">
+<img src = "outNo3.png">
+
+### Tugas No 4
+Buatlah program untuk melakukan pencarian data penduduk berdasarkan NIK. Setiap penduduk mempunyai catatan data yang terdiri dari NIK, nama, alamat, dan jenis kelamin. Jumlah penduduk 
+dan detail data penduduk diinputkan melalui keyboard. Kemudian data yang dicari juga diinputkan melalui keyboard
+<img src = "no4.png">
+<img src = "no4Main.png">
+<img src = "outputno4.png">
